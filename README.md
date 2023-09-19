@@ -36,6 +36,8 @@
 
 <br/>
 
+<iframe src="https://giphy.com/embed/C95hKGY1gk503o7Tkk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aklo-ordinals-satmoji-C95hKGY1gk503o7Tkk">via GIPHY</a></p>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
