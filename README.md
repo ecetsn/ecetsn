@@ -36,7 +36,9 @@
 
 <br/>
 
-<iframe src="https://giphy.com/embed/C95hKGY1gk503o7Tkk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aklo-ordinals-satmoji-C95hKGY1gk503o7Tkk">via GIPHY</a></p>
+<div align="center"> 
+<img src="https://github.com/ecetsn/ecetsn/assets/26511196/e3e7bc61-c8be-41b8-86dc-07369b9e2063" width="200" height="200">
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -52,4 +54,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-<br/>
+<div align="center"> 
+<img src="https://github.com/ecetsn/ecetsn/assets/26511196/1e84f846-a871-4d8b-ba77-944d1db1fcc5" width="200" height="200">
+</div>
