@@ -16,26 +16,34 @@
  
  </div>
 <br/>
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/ece-tosun-466982235/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  </a>
-</div>
+
+<h3 align="center">Connect with me</h3>    
+    
+<p align="center"> 
+  <a href="https://github.com/ecetsn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ece tosun" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/ece-tosun-466982235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ece tosun" height="40" width="50" /></a>
+  <a href=https://medium.com/@ecetsn target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ecetsn" height="40" width="50" /></a>
+ </p>
+<br/>
+
+</div> 
 
  <hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,python,cpp,c,java&theme=light" /><br>
 </div>
+<br/>
 
 <br/>
 
 <div align="center"> 
 <img src="https://github.com/ecetsn/ecetsn/assets/26511196/e3e7bc61-c8be-41b8-86dc-07369b9e2063" width="200" height="200">
 </div>
+
+<br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
