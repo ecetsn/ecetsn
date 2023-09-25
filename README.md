@@ -40,8 +40,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=ecetsn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img height="390" src="https://github-readme-stats.vercel.app/api?username=ecetsn&theme=react&border_radius=10&show_icons=true" alt="Ece's Github readme stats">
+  <img width=390 height = 200 src="https://streak-stats.demolab.com/?user=ecetsn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 height = 200 src="https://github-readme-stats.vercel.app/api?username=ecetsn&theme=react&border_radius=10&show_icons=true" alt="Ece's Github readme stats">
   <br/>
 </div>
 
