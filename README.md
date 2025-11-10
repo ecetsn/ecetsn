@@ -4,19 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ece+Tosun!;" />
 </h1>
 
-<h3 align="center">A passionate developer from Turkey 🇹🇷</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a AI-based text translator**
- 
- 🌱 I’m currently learning **Deep Learning, OpenCV Lib., Machine Learning**
- 
- </div>
-<br/>
-
 <h3 align="center">Connect with me</h3>    
     
 <p align="center"> 
