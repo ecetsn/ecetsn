@@ -43,10 +43,6 @@
 <br/><br/>
 <hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-
 <div align="center"> 
 <img src="https://github.com/ecetsn/ecetsn/assets/26511196/1e84f846-a871-4d8b-ba77-944d1db1fcc5" width="200" height="200">
 </div>
